@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @wasimdcode
-- 👀 I’m interested in Development 
-- 🌱 I’m currently learning Java 
-- 📫 How to reach me just DM me on my social media Handle
-- 😄 Pronouns: He/Him
+# 👋 Hi, I’m Wasim Turk
 
-<!---
-wasimdcode/wasimdcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring Software Engineer & Full‑Stack Developer**
+
+- 🎓 BCA Student @ Chandigarh University  
+- 💻 Proficient in Java, JavaScript, React & Node.js  
+- 🚀 Currently: Daily LeetCode grind + Building a React/Express portfolio app  
+- 🔍 Passionate about clean code, algorithms, and open‑source collaboration  
+
+## 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohd-wasim-4845a7323/)
+- 🔗 [Portfolio](https://your-portfolio.url)  
+- ✉️ pydwasim@example.com
