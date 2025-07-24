@@ -4,7 +4,7 @@
 
 - 🎓 BCA Student @ Chandigarh University  
 - 💻 Proficient in Java, JavaScript, React & Node.js  
-- 🚀 Currently: Daily LeetCode grind + Building a React/Express portfolio app  
+- 🚀 Currently: Daily LeetCode grind + Building a Apps that Will Change the World
 - 🔍 Passionate about clean code, algorithms, and open‑source collaboration  
 
 ## 📫 Let’s Connect
